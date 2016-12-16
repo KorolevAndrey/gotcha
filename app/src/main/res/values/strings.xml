@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gotcha</string>
+    <string name="AppMail">gotcha.lock@gmail.com</string>
+    <string name="AppMailPassword">qwerty#123456789</string>
+    <string name="please_enter_yout_email_to_be_able_to_receive_messages_about_your_phone">Please enter yout email to be able to receive messages about your phone.</string>
+    <string name="your_email">Your Email</string>
+    <string name="start">Start ..</string>
+    <string name="RemoveMyAdmin">Remove Admin</string>
+    <string name="ChangeEmail">Change Email</string>
+    <string name="AddAdmin">Add Admin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="turn_on_high_accuracy_location_mode_for_best_results">Turn on high accuracy location mode for best results</string>
+    <string name="send_alert_email">Send alert email</string>
+    <string name="emails_should_be_sent_to">Emails should be sent to</string>
+    <string name="number_of_ublock_attempts">Number of ublock attempts</string>
+    <string name="send_email_after_3_incorrect_attempts">Send email after 3 incorrect attempts</string>
+    <string name="help">Help</string>
+    <string name="you_must_enter_a_minimum_of_4_digits_or_dots_for_each_unlock_attempts_this_is_the_minimum_length_required_by_android">You must enter a minimum of 4 digits or dots for each unlock attempts. This is the minimum length required by Android.</string>
+    <string name="wait_at_least_10_seconds_before_entering_the_correct_code_other_wise_securelock8_will_discard_the_email">Wait at least 10 seconds before entering the correct code, other wise Gotcha will discard the email.</string>
+    <string name="make_sure_you_check_your_spam_folder_and_mark_the_emails_as_not_spam_sothe_are_delivered_to_your_inbox">Make sure you check your Spam folder and mark the emails as Not Spam sothe are delivered to your inbox.</string>
+    <string name="when_someone_tries_to_unlock_your_device_with_the_wrong_code">When someone tries to unlock your device with the wrong code</string>
+    <string name="description">"Gotcha emails you when someone tries to unlock your phone with thw wrong code. The email includes stealth photo taken with the front camera and a map showing the location of your phone. "</string>
+</resources>
